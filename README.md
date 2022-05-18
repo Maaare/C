@@ -15,3 +15,4 @@ projects done in C language
 - Rad na Javi
 - Pushovanje na Git
 - mozda bih mogao sada da sredim GitBash
+- write / read / think / maybe / absolute / words / something / somehow
