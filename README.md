@@ -16,3 +16,5 @@ projects done in C language
 - Pushovanje na Git
 - mozda bih mogao sada da sredim GitBash
 - write / read / think / maybe / absolute / words / something / somehow
+- - something something something something something something something 
+- -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
