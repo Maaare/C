@@ -18,3 +18,5 @@ projects done in C language
 - write / read / think / maybe / absolute / words / something / somehow
 - - something something something something something something something 
 - -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
+- dosta losa tekma F4
+- al ocekivano
