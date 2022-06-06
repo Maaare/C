@@ -20,3 +20,5 @@ projects done in C language
 - -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
 - dosta losa tekma F4
 - al ocekivano
+AJMO AJDE
+SAMO NAPRED
