@@ -20,6 +20,7 @@ projects done in C language
 - -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
 - dosta losa tekma F4
 - al ocekivano
-AJMO AJDE
-SAMO NAPRED
-Odnesi kajsije
+
+- write / read / think / maybe / absolute / words / something / somehow
+- - something something something something something something something 
+- -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
