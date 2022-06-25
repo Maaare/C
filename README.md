@@ -25,5 +25,5 @@ projects done in C language
 - - something something something something something something something 
 - -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
 - write / read / think / maybe / absolute / words / something / somehow
-- - something something something something something something something 
-- -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
+
+- kupio sam jaknu i platio sam auto skolu casove
