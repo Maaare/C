@@ -27,3 +27,4 @@ projects done in C language
 - write / read / think / maybe / absolute / words / something / somehow
 
 - kupio sam jaknu i platio sam auto skolu casove
+- placam racune za mob i matiji za fpl
