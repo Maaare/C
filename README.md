@@ -28,3 +28,4 @@ projects done in C language
 
 - kupio sam jaknu i platio sam auto skolu casove
 - placam racune za mob i matiji za fpl
+- zavrsi za zarka ovo i telefon
