@@ -26,8 +26,5 @@ projects done in C language
 - -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
 - write / read / think / maybe / absolute / words / something / somehow
 
-- kupio sam jaknu i platio sam auto skolu casove
-- placam racune za mob i matiji za fpl
-- zavrsi za zarka ovo i telefon
-- danas Miletu vodim kod Ivana
-- posle toga gajbi i posao
+- plati casove (4x2x2x1400)
+- 
