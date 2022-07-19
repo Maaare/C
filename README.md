@@ -26,5 +26,6 @@ projects done in C language
 - -somewhere somewhere somewhere somewheresomewhere somewherevsomewhere somewhere somewhere somewhere
 - write / read / think / maybe / absolute / words / something / somehow
 
-- plati casove (4x2x2x1400)
-- 
+- odradi voznju
+- plati casove (4x2x2x1400) = 22400
+- odmori se
