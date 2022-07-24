@@ -29,3 +29,7 @@ projects done in C language
 - odradi voznju
 - plati casove (4x2x2x1400) = 22400
 - odmori se
+
+- tusiranje
+- dogovori se oko racuna
+- dogovori se sa Tanjom oko 14h
