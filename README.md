@@ -33,3 +33,5 @@ projects done in C language
 - tusiranje
 - dogovori se oko racuna
 - dogovori se sa Tanjom oko 14h
+- otrezni se i pojedi nesto
+- pogledaj za Miletu gde ima ortopan
