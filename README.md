@@ -35,3 +35,8 @@ projects done in C language
 - dogovori se sa Tanjom oko 14h
 - otrezni se i pojedi nesto
 - pogledaj za Miletu gde ima ortopan
+- ustani oko 8h ili 9h sati
+- odradi DS i LAAG po 4h
+- uzmi za Miletu u apoteci ono
+- ocisti patike
+- usisaj
